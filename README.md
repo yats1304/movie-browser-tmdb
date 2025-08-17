@@ -43,7 +43,7 @@ A responsive and beautiful movie discovery app built with **React** that fetches
 
 ### Steps
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/yats1304/movie-browser-tmdb.git
    cd movie-browser-tmdb
