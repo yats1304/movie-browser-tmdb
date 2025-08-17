@@ -34,16 +34,9 @@ A responsive and beautiful movie discovery app built with **React** that fetches
 
 ---
 
-##  Getting Started
-
-### Prerequisites
-
-- Node.js (v14 or above)  
-- A TMDb API key (register at [TMDb docs] to receive) :contentReference[oaicite:2]{index=2}
-
 ### Steps
 
- Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yats1304/movie-browser-tmdb.git
    cd movie-browser-tmdb
